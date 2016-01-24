@@ -1,3 +1,8 @@
+Repoman maintenance has been passed to [Bastian Krol](https://github.com/basti1302).<br/>
+Repoman main repository is now at [basti1302/repoman](https://github.com/basti1302/repoman).<br/>
+This repository is only an archive fork.<br/>
+<br/>
+
 <img align="right" src="https://raw.github.com/cliffano/repoman/master/avatar.jpg" alt="Avatar"/>
 
 [![Build Status](https://img.shields.io/travis/cliffano/repoman.svg)](http://travis-ci.org/cliffano/repoman)

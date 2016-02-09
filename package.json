@@ -42,8 +42,8 @@
     "gitoriou.js": "^0.0.1",
     "ini": "^1.3.4",
     "jazz": "^0.0.18",
-    "lodash": "^4.0.0",
-    "prompt": "^0.2.14",
+    "lodash": "^4.3.0",
+    "prompt": "^0.3.0",
     "svn-info": "^0.2.1"
   },
   "devDependencies": {
